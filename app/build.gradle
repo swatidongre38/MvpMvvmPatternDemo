@@ -30,6 +30,4 @@ dependencies {
     compile 'com.jakewharton:butterknife:8.5.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
     compile 'com.mcxiaoke.volley:library-aar:1.0.0'
-    compile files('libs/httpclient-4.1.1.jar')
-    compile files('libs/httpcore-4.1.jar')
 }
